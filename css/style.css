@@ -17,8 +17,8 @@ p{
 }
 
 .taille-img{
-    width: 300px;
-    height: 186px;
+    width: 320px;
+    height: 240px;
 
 }
 
@@ -30,9 +30,9 @@ p{
     bottom: 100px;
     background-color: #fff;
     text-align: center;
-    left: 65px;
-    top: 113%;
-    width: 231px; min-height: 127px; height: auto; 
+    left: 46px;
+    top: 25px;
+    width: 231px; min-height: 107px; height: auto; 
     box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2); 
     margin:  auto 0;
     
@@ -70,7 +70,7 @@ font-size: 1rem; margin: 50px auto 60px;
  margin-top: 10%;
  text-align: center;
  display: flex;
- margin-top: 19%;
+ margin-top: 15%;
 } 
 .text-4{
     font-weight: 300; margin: 0px auto 0;
